@@ -14,3 +14,5 @@ Dependencies:
     pip install docx
 
 I think any version of those will do.
+
+In order to get it work you must run multi.py first and then the notebooks in any order (one draws different frequency plots, the other draws pseudo Google n-gram plots).
