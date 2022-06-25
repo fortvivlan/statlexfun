@@ -11,7 +11,7 @@ Dependencies:
     pip install rnnmorph
     pip install colorama
     pip install razdel
-    pip install docx
+    pip install python-docx
 
 I think any version of those will do.
 
